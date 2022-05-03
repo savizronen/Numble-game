@@ -1,9 +1,9 @@
 # Numble clone
- Numble web game clone written in JavaScript, HTML and CSS
+ Numble web game clone written in JavaScript, HTML and CSS.
  
- - Displaying games statistics in modal using chart
- - Animations for fun game experience
- - Validation to user input
+ - Displaying games statistics in modal using chart.
+ - Animations for fun game experience.
+ - Validation to user input.
 
 <img src="https://user-images.githubusercontent.com/61472807/162030020-a1ca0fb3-b236-43e3-968d-2a84d8bc88ac.gif" width="500" height="250" /><img src="https://user-images.githubusercontent.com/61472807/162030278-9ff71675-2a9e-4674-b97d-dd4d8c5461eb.gif" width="500" height="250" />
 
